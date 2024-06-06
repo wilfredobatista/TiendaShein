@@ -1,4 +1,4 @@
-# Proyecto: Tienda+NombreLocalOProducto
+# Proyecto: Tienda Shein
 
 ## Descripción del Proyecto
 Este proyecto consiste en crear una aplicación móvil con Android Studio para llevar digitalmente el catálogo de productos de una tienda. La aplicación incluye funcionalidades de navegación entre actividades y muestra diferentes secciones de venta con productos detallados.
